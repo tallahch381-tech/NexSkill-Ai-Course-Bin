@@ -8,5 +8,4 @@ for i in bookTuple:
 
     print(bookTuple[2])
     print(type(bookTuple[2]))
-    print(type(bookTuple[3])
-          )
+    print(type(bookTuple[3]))
