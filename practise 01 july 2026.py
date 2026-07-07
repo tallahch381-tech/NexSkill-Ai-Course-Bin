@@ -72,39 +72,3 @@ print("Zameen.com Price - div - pie   - Hyperbolic Cosine values:", cosh_values)
 # Calculate the hyperbolic tangent of each element
 tanh_values = np.tanh(pricePie)
 print("Zameen.com Price - div - pie   -Hyperbolic Tangent values:", tanh_values)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
