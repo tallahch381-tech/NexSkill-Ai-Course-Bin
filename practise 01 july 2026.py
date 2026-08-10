@@ -49,8 +49,7 @@ print("Zameen.com Price - div - pie Cosine values:", cosine_values)
 print("Zameen.com Price - div - pie Tangent values:", tangent_values)
 
 print("Zameen.com Price - div - pie  - Exponential values:", np.exp(pricePie))
-
- Calculate the natural logarithm and base-10 logarithm
+#Calculate the natural logarithm and base-10 logarithm
 log_array = np.log(pricePie)
 log10_array = np.log10(pricePie)
 
